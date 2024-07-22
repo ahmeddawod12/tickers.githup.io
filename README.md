@@ -1,6 +1,6 @@
-In this project, we have conducted an in-depth analysis of the six most well-known tickers by applying various strategies, including correlations, financial health assessments, and predictive and statistical measures.
+In this project, we have conducted an in-depth analysis of six well-known tickers by applying various strategies, including correlations, financial health assessments, and predictive and statistical measures.
 
-You will find the project in the 
+You will find the project in the **Tickers_Analysis.ipynb** file, which contains all the insights you need, alongside the **data file** that includes all information and analysis completed and verified in Excel and Power BI to ensure the most accurate information in our analysis.
 
 Our objective was to combine and analyze all relevant ratios and measures to derive the most useful and accurate insights from our data. We aimed to provide a comprehensive understanding of each ticker's performance and potential future movements.
 
@@ -8,7 +8,7 @@ While some sections provide conclusions and definitions, feel free to focus sole
 
 The data used in this analysis is sourced from real-world data provided by yfinance, which I utilized in Python to download the stock prices for each ticker. Additionally, I used Stock Analysis Site to load the quarterly financial statements for each company. This approach ensured that our analysis was grounded in the most current and relevant financial data available.
 
-The project includes all related data and analyses, which I have completed in Excel and Power BI. The data file contains detailed analyses, including various financial ratios, correlation matrices, and predictive models. Additionally, you will find:
+Tickers_Analysis.ipynb includes all related data and analyses, such as various financial ratios, correlation matrices, and predictive models. Additionally, you will find:
 
 Graphical Representations: Visualizations in Power BI and Excel that highlight trends, patterns, and key insights.
 
