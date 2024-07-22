@@ -4,7 +4,7 @@ Our objective was to combine and analyze all relevant ratios and measures to der
 
 While some sections provide conclusions and definitions, feel free to focus solely on the narrative behind the graphs. The **Final Conclusion** will suffice for a comprehensive understanding.
 
-The data used in this analysis is sourced from real-world data provided by yfinance, which I utilized in Python to download the stock prices for each ticker. Additionally, I used Stock Analysis to load the quarterly financial statements for each company. This approach ensured that our analysis was grounded in the most current and relevant financial data available.
+The data used in this analysis is sourced from real-world data provided by yfinance, which I utilized in Python to download the stock prices for each ticker. Additionally, I used Stock Analysis Site to load the quarterly financial statements for each company. This approach ensured that our analysis was grounded in the most current and relevant financial data available.
 
 The project includes all related data and analyses, which I have completed in Excel and Power BI. The data file contains detailed analyses, including various financial ratios, correlation matrices, and predictive models. Additionally, you will find:
 
