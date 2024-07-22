@@ -8,9 +8,9 @@ While some sections provide conclusions and definitions, feel free to focus sole
 
 The data used in this analysis is sourced from real-world data provided by yfinance, which I utilized in Python to download the stock prices for each ticker. Additionally, I used Stock Analysis Site to load the quarterly financial statements for each company. This approach ensured that our analysis was grounded in the most current and relevant financial data available.
 
-Tickers_Analysis.ipynb includes all related data and analyses, such as various financial ratios, correlation matrices, and predictive models. Additionally, you will find:
+**Tickers_Analysis.ipynb** includes all related data and analyses, such as various financial ratios, correlation matrices, and predictive models. Additionally, you will find:
 
-Graphical Representations: Visualizations in Power BI and Excel that highlight trends, patterns, and key insights.
+Graphical Representations: Visualizations that highlight trends, patterns, and key insights.
 
 Financial Health Reports: Detailed reports on the financial stability and performance of each company.
 
