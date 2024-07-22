@@ -1,5 +1,7 @@
 In this project, we have conducted an in-depth analysis of the six most well-known tickers by applying various strategies, including correlations, financial health assessments, and predictive and statistical measures.
 
+You will find the project in the 
+
 Our objective was to combine and analyze all relevant ratios and measures to derive the most useful and accurate insights from our data. We aimed to provide a comprehensive understanding of each ticker's performance and potential future movements.
 
 While some sections provide conclusions and definitions, feel free to focus solely on the narrative behind the graphs. The **Final Conclusion** will suffice for a comprehensive understanding.
