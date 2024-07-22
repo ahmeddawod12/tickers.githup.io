@@ -1,3 +1,5 @@
+## **A Brief Summary of This Analysis**:
+
 In this project, we have conducted an in-depth analysis of six well-known tickers by applying various strategies, including correlations, financial health assessments, and predictive and statistical measures.
 
 You will find the project in the **Tickers_Analysis.ipynb** file, which contains all the insights you need, alongside the **data file** that includes all information and analysis completed and verified in Excel and Power BI to ensure the most accurate information in our analysis.
