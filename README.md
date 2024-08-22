@@ -22,4 +22,4 @@ This comprehensive approach ensures that the analysis is robust and actionable. 
 
 In summary, this project offers a thorough examination of the selected tickers, leveraging advanced analytical tools and real-world data to provide valuable insights for informed decision-making. All related data and analyses are included in the accompanying Excel and Power BI files for your detailed review.
 
-***Date:2024/07/22***
+***Date: 2024/07/22***
