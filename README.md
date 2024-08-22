@@ -21,3 +21,5 @@ Predictive Models: Statistical models used to forecast future price movements an
 This comprehensive approach ensures that the analysis is robust and actionable. By reviewing the provided data and visualizations, you can gain a clear understanding of each ticker's potential future performance based on current and historical financial data.
 
 In summary, this project offers a thorough examination of the selected tickers, leveraging advanced analytical tools and real-world data to provide valuable insights for informed decision-making. All related data and analyses are included in the accompanying Excel and Power BI files for your detailed review.
+
+***Date:2024/07/22***
